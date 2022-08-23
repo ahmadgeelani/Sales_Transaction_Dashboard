@@ -15,3 +15,6 @@ among variables
 Tech Stacks:
 
 Excel
+
+![Preview_Sales_Transaction_Dashboard](https://user-images.githubusercontent.com/109148401/186230608-899308ba-c90c-4c34-8898-29e7bbc7226b.png)
+
